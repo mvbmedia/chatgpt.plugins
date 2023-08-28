@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /api/*
+Disallow: /api/
+Disallow: /offer/
+Disallow: /offer/*
+
+Sitemap: https://chatgpt.plugin.support/sitemaps.xml
